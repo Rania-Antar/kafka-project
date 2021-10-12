@@ -1,0 +1,7 @@
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/config/KafkaProducerConfig.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/service/StarshipService.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/dto/StarshipDto.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/config/KafkaConsumerConfig.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/dto/AbstractDto.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/KafkaServerApplication.java
+/home/rania/Desktop/kafka/kafka-server/src/main/java/com/example/demo/service/StarshipServiceImpl.java
